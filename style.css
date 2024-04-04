@@ -1,0 +1,33 @@
+body {
+  font-family: 'trebuchet MS', 'lucida sans unicode', 'ariel';
+  background-image: url("https://t3.ftcdn.net/jpg/00/97/46/36/360_F_97463619_ZHqQiR70xv5HRiTJlkfyetkzxrmezDtP.jpg");
+  background-size: cover;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+h1 {
+  color: goldenrod;
+ }
+
+#message-el {
+  font-style: italic;
+}
+
+.button-container {
+  text-align: center;
+}
+
+button {
+  color: #016f32;
+  background: goldenrod;
+  width: 150px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+  margin-bottom: 4px;
+  align-items: center;
+}
